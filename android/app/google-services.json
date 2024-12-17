@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "17714348203",
+    "project_id": "myquizapp-4c803",
+    "storage_bucket": "myquizapp-4c803.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17714348203:android:5072b513231614caad77ee",
+        "android_client_info": {
+          "package_name": "com.zenva.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17714348203-hssddfvno1isragoo4nrdd5cj7k480f5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zenva.quiz_app",
+            "certificate_hash": "19986c6a33463cf71a2ac7db02dfd13ef6c00fbb"
+          }
+        },
+        {
+          "client_id": "17714348203-uoee82obcqcsp20nr4jhosef21j7llj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ__5eakoU_biZ7xGW_HOJOHr4BBuoQPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17714348203-uoee82obcqcsp20nr4jhosef21j7llj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

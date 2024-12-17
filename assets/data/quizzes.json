@@ -1,0 +1,249 @@
+{
+    "quizzes": [
+      {
+        "id": "math_basic_1",
+        "categoryId": "math",
+        "title": "Basic Mathematics 1",
+        "description": "Test your basic math skills",
+        "difficulty": "Easy",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "math_basic_2",
+        "categoryId": "math",
+        "title": "Basic Mathematics 2",
+        "description": "Test your basic math skills",
+        "difficulty": "Easy",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "math_basic_3",
+        "categoryId": "math",
+        "title": "Basic Mathematics 3",
+        "description": "Test your basic math skills",
+        "difficulty": "Easy",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "math_mid_1",
+        "categoryId": "math",
+        "title": "Intermediate Mathematics 1",
+        "description": "Challenge your math skills",
+        "difficulty": "Medium",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "math_mid_2",
+        "categoryId": "math",
+        "title": "Intermediate Mathematics 2",
+        "description": "Challenge your math skills",
+        "difficulty": "Medium",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "math_mid_3",
+        "categoryId": "math",
+        "title": "Intermediate Mathematics 3",
+        "description": "Challenge your math skills",
+        "difficulty": "Medium",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "math_hard_1",
+        "categoryId": "math",
+        "title": "Advanced Mathematics 1",
+        "description": "Test your advanced math skills",
+        "difficulty": "Hard",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "math_hard_2",
+        "categoryId": "math",
+        "title": "Advanced Mathematics 2",
+        "description": "Test your advanced math skills",
+        "difficulty": "Hard",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "math_hard_3",
+        "categoryId": "math",
+        "title": "Advanced Mathematics 3",
+        "description": "Test your advanced math skills",
+        "difficulty": "Hard",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+  
+      {
+        "id": "science_basic_1",
+        "categoryId": "science",
+        "title": "Basic Science 1",
+        "description": "Learn fundamental science concepts",
+        "difficulty": "Easy",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "science_basic_2",
+        "categoryId": "science",
+        "title": "Basic Science 2",
+        "description": "Learn fundamental science concepts",
+        "difficulty": "Easy",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "science_basic_3",
+        "categoryId": "science",
+        "title": "Basic Science 3",
+        "description": "Learn fundamental science concepts",
+        "difficulty": "Easy",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "science_mid_1",
+        "categoryId": "science",
+        "title": "Intermediate Science 1",
+        "description": "Explore complex scientific theories",
+        "difficulty": "Medium",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "science_mid_2",
+        "categoryId": "science",
+        "title": "Intermediate Science 2",
+        "description": "Explore complex scientific theories",
+        "difficulty": "Medium",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "science_mid_3",
+        "categoryId": "science",
+        "title": "Intermediate Science 3",
+        "description": "Explore complex scientific theories",
+        "difficulty": "Medium",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "science_hard_1",
+        "categoryId": "science",
+        "title": "Advanced Science 1",
+        "description": "Deep dive into scientific concepts",
+        "difficulty": "Hard",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "science_hard_2",
+        "categoryId": "science",
+        "title": "Advanced Science 2",
+        "description": "Deep dive into scientific concepts",
+        "difficulty": "Hard",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "science_hard_3",
+        "categoryId": "science",
+        "title": "Advanced Science 3",
+        "description": "Deep dive into scientific concepts",
+        "difficulty": "Hard",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+  
+      {
+        "id": "history_basic_1",
+        "categoryId": "history",
+        "title": "Basic History 1",
+        "description": "Test your knowledge of basic historical events",
+        "difficulty": "Easy",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "history_basic_2",
+        "categoryId": "history",
+        "title": "Basic History 2",
+        "description": "Test your knowledge of basic historical events",
+        "difficulty": "Easy",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "history_basic_3",
+        "categoryId": "history",
+        "title": "Basic History 3",
+        "description": "Test your knowledge of basic historical events",
+        "difficulty": "Easy",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "history_mid_1",
+        "categoryId": "history",
+        "title": "Intermediate History 1",
+        "description": "Explore world history in detail",
+        "difficulty": "Medium",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "history_mid_2",
+        "categoryId": "history",
+        "title": "Intermediate History 2",
+        "description": "Explore world history in detail",
+        "difficulty": "Medium",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "history_mid_3",
+        "categoryId": "history",
+        "title": "Intermediate History 3",
+        "description": "Explore world history in detail",
+        "difficulty": "Medium",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "history_hard_1",
+        "categoryId": "history",
+        "title": "Advanced History 1",
+        "description": "Complex historical analysis",
+        "difficulty": "Hard",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "history_hard_2",
+        "categoryId": "history",
+        "title": "Advanced History 2",
+        "description": "Complex historical analysis",
+        "difficulty": "Hard",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      },
+      {
+        "id": "history_hard_3",
+        "categoryId": "history",
+        "title": "Advanced History 3",
+        "description": "Complex historical analysis",
+        "difficulty": "Hard",
+        "questionCount": 5,
+        "timeInMinutes": 10
+      }
+    ]
+  }

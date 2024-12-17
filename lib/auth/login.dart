@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:quiz_app/auth/forgot_pass.dart';
 import 'package:quiz_app/auth/signup.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -16,26 +17,32 @@ class _LoginScreenState extends State<LoginScreen> {
   String _email = '';
   String _password = '';
 
-  void login() async {
+  Future<void> login() async {
     if (_formkey.currentState!.validate()) {
       _formkey.currentState!.save();
       try {
+        // Set persistence first
+        // await FirebaseAuth.instance.setPersistence(Persistence.LOCAL);
+
+        // Attempt login
         UserCredential userCredential = await FirebaseAuth.instance
             .signInWithEmailAndPassword(email: _email, password: _password);
-        User? user = userCredential.user;
-        if (user != null) {
+
+        if (userCredential.user != null && context.mounted) {
           Navigator.pushReplacement(
             context,
             MaterialPageRoute(builder: (context) => const Quiz()),
           );
         }
       } on FirebaseAuthException catch (e) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-            content: Text('Login failed: ${e.message}'),
-            backgroundColor: Colors.red,
-          ),
-        );
+        if (context.mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text('Login failed: ${e.message}'),
+              backgroundColor: Colors.red,
+            ),
+          );
+        }
       }
     }
   }
@@ -167,14 +174,15 @@ class _LoginScreenState extends State<LoginScreen> {
 
   Widget _forgotPassword() {
     return TextButton(
-      onPressed: () {},
-      child: Text(
-        "Forgot password?",
-        style: GoogleFonts.poppins(
-          color: Colors.white,
-          fontSize: 16,
-        ),
-      ),
+      onPressed: () {
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => const ForgotPasswordScreen(),
+          ),
+        );
+      },
+      child: Text('Forgot Password?', style: GoogleFonts.poppins()),
     );
   }
 

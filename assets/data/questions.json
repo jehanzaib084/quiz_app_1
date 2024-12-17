@@ -1,0 +1,434 @@
+{
+    "questions": [
+      
+      {
+        "id": "math_basic_1_q1",
+        "quizId": "math_basic_1",
+        "question": "What is 2 + 2?",
+        "options": ["3", "4", "5", "6"],
+        "correctAnswer": "4"
+      },
+      {
+        "id": "math_basic_1_q2",
+        "quizId": "math_basic_1",
+        "question": "What is 5 × 5?",
+        "options": ["15", "20", "25", "30"],
+        "correctAnswer": "25"
+      },
+      {
+        "id": "math_basic_1_q3",
+        "quizId": "math_basic_1",
+        "question": "What is 10 ÷ 2?",
+        "options": ["2", "3", "5", "10"],
+        "correctAnswer": "5"
+      },
+      {
+        "id": "math_basic_1_q4",
+        "quizId": "math_basic_1",
+        "question": "What is 7 - 3?",
+        "options": ["2", "3", "4", "5"],
+        "correctAnswer": "4"
+      },
+      {
+        "id": "math_basic_1_q5",
+        "quizId": "math_basic_1",
+        "question": "What is 3 + 3?",
+        "options": ["5", "6", "7", "8"],
+        "correctAnswer": "6"
+      },
+      {
+        "id": "math_basic_2_q1",
+        "quizId": "math_basic_2",
+        "question": "What is 3 + 5?",
+        "options": ["7", "8", "9", "10"],
+        "correctAnswer": "8"
+      },
+      {
+        "id": "math_basic_2_q2",
+        "quizId": "math_basic_2",
+        "question": "What is 6 × 2?",
+        "options": ["10", "11", "12", "13"],
+        "correctAnswer": "12"
+      },
+      {
+        "id": "math_basic_2_q3",
+        "quizId": "math_basic_2",
+        "question": "What is 9 ÷ 3?",
+        "options": ["2", "3", "4", "5"],
+        "correctAnswer": "3"
+      },
+      {
+        "id": "math_basic_2_q4",
+        "quizId": "math_basic_2",
+        "question": "What is 8 - 4?",
+        "options": ["2", "3", "4", "5"],
+        "correctAnswer": "4"
+      },
+      {
+        "id": "math_basic_2_q5",
+        "quizId": "math_basic_2",
+        "question": "What is 7 + 2?",
+        "options": ["8", "9", "10", "11"],
+        "correctAnswer": "9"
+      },
+      {
+        "id": "math_basic_3_q1",
+        "quizId": "math_basic_3",
+        "question": "What is 4 + 4?",
+        "options": ["7", "8", "9", "10"],
+        "correctAnswer": "8"
+      },
+      {
+        "id": "math_basic_3_q2",
+        "quizId": "math_basic_3",
+        "question": "What is 5 × 3?",
+        "options": ["10", "12", "15", "18"],
+        "correctAnswer": "15"
+      },
+      {
+        "id": "math_basic_3_q3",
+        "quizId": "math_basic_3",
+        "question": "What is 12 ÷ 4?",
+        "options": ["2", "3", "4", "5"],
+        "correctAnswer": "3"
+      },
+      {
+        "id": "math_basic_3_q4",
+        "quizId": "math_basic_3",
+        "question": "What is 9 - 5?",
+        "options": ["2", "3", "4", "5"],
+        "correctAnswer": "4"
+      },
+      {
+        "id": "math_basic_3_q5",
+        "quizId": "math_basic_3",
+        "question": "What is 6 + 2?",
+        "options": ["7", "8", "9", "10"],
+        "correctAnswer": "8"
+      },
+  
+      {
+        "id": "math_mid_1_q1",
+        "quizId": "math_mid_1",
+        "question": "Solve for x: 2x + 5 = 15",
+        "options": ["5", "10", "7.5", "8"],
+        "correctAnswer": "5"
+      },
+      {
+        "id": "math_mid_1_q2",
+        "quizId": "math_mid_1",
+        "question": "What is the area of a circle with radius 5?",
+        "options": ["25π", "10π", "15π", "20π"],
+        "correctAnswer": "25π"
+      },
+      {
+        "id": "math_mid_1_q3",
+        "quizId": "math_mid_1",
+        "question": "What is the derivative of x^2?",
+        "options": ["x", "2x", "x^2", "2x^2"],
+        "correctAnswer": "2x"
+      },
+      {
+        "id": "math_mid_1_q4",
+        "quizId": "math_mid_1",
+        "question": "What is the integral of 2x?",
+        "options": ["x^2", "2x^2", "x", "2x"],
+        "correctAnswer": "x^2"
+      },
+      {
+        "id": "math_mid_1_q5",
+        "quizId": "math_mid_1",
+        "question": "What is the value of π?",
+        "options": ["3.14", "2.14", "4.14", "5.14"],
+        "correctAnswer": "3.14"
+      },
+  
+      {
+        "id": "math_hard_1_q1",
+        "quizId": "math_hard_1",
+        "question": "Solve for x: x^2 - 4x + 4 = 0",
+        "options": ["2", "4", "1", "0"],
+        "correctAnswer": "2"
+      },
+      {
+        "id": "math_hard_1_q2",
+        "quizId": "math_hard_1",
+        "question": "What is the value of e?",
+        "options": ["2.71", "3.14", "1.61", "1.41"],
+        "correctAnswer": "2.71"
+      },
+      {
+        "id": "math_hard_1_q3",
+        "quizId": "math_hard_1",
+        "question": "What is the derivative of sin(x)?",
+        "options": ["cos(x)", "-cos(x)", "sin(x)", "-sin(x)"],
+        "correctAnswer": "cos(x)"
+      },
+      {
+        "id": "math_hard_1_q4",
+        "quizId": "math_hard_1",
+        "question": "What is the integral of 1/x?",
+        "options": ["ln(x)", "1/x", "x", "x^2"],
+        "correctAnswer": "ln(x)"
+      },
+      {
+        "id": "math_hard_1_q5",
+        "quizId": "math_hard_1",
+        "question": "What is the value of the golden ratio?",
+        "options": ["1.61", "2.71", "3.14", "1.41"],
+        "correctAnswer": "1.61"
+      },
+  
+      {
+        "id": "science_basic_1_q1",
+        "quizId": "science_basic_1",
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "CO2", "O2", "N2"],
+        "correctAnswer": "H2O"
+      },
+      {
+        "id": "science_basic_1_q2",
+        "quizId": "science_basic_1",
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Mars", "Jupiter", "Saturn", "Venus"],
+        "correctAnswer": "Jupiter"
+      },
+      {
+        "id": "science_basic_1_q3",
+        "quizId": "science_basic_1",
+        "question": "What is the speed of light?",
+        "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+        "correctAnswer": "300,000 km/s"
+      },
+      {
+        "id": "science_basic_1_q4",
+        "quizId": "science_basic_1",
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Au", "Ag", "Pb", "Pt"],
+        "correctAnswer": "Au"
+      },
+      {
+        "id": "science_basic_1_q5",
+        "quizId": "science_basic_1",
+        "question": "What is the boiling point of water?",
+        "options": ["100°C", "90°C", "110°C", "120°C"],
+        "correctAnswer": "100°C"
+      },
+  
+      {
+        "id": "science_mid_1_q1",
+        "quizId": "science_mid_1",
+        "question": "What is the atomic number of Carbon?",
+        "options": ["5", "6", "7", "8"],
+        "correctAnswer": "6"
+      },
+      {
+        "id": "science_mid_1_q2",
+        "quizId": "science_mid_1",
+        "question": "Which organelle is known as the powerhouse of the cell?",
+        "options": ["Nucleus", "Mitochondria", "Golgi body", "Endoplasmic reticulum"],
+        "correctAnswer": "Mitochondria"
+      },
+      {
+        "id": "science_mid_1_q3",
+        "quizId": "science_mid_1",
+        "question": "What is the chemical formula for table salt?",
+        "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+        "correctAnswer": "NaCl"
+      },
+      {
+        "id": "science_mid_1_q4",
+        "quizId": "science_mid_1",
+        "question": "What is the process of converting solid to gas called?",
+        "options": ["Sublimation", "Condensation", "Evaporation", "Melting"],
+        "correctAnswer": "Sublimation"
+      },
+      {
+        "id": "science_mid_1_q5",
+        "quizId": "science_mid_1",
+        "question": "What is the chemical symbol for iron?",
+        "options": ["Fe", "Ir", "In", "I"],
+        "correctAnswer": "Fe"
+      },
+
+      {
+        "id": "science_mid_2_q1",
+        "quizId": "science_mid_2",
+        "question": "What is the atomic number of Carbon?",
+        "options": ["5", "6", "7", "8"],
+        "correctAnswer": "6"
+      },
+      {
+        "id": "science_mid_2_q2",
+        "quizId": "science_mid_2",
+        "question": "Which organelle is known as the powerhouse of the cell?",
+        "options": ["Nucleus", "Mitochondria", "Golgi body", "Endoplasmic reticulum"],
+        "correctAnswer": "Mitochondria"
+      },
+      {
+        "id": "science_mid_2_q3",
+        "quizId": "science_mid_2",
+        "question": "What is the chemical formula for table salt?",
+        "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+        "correctAnswer": "NaCl"
+      },
+      {
+        "id": "science_mid_2_q4",
+        "quizId": "science_mid_2",
+        "question": "What is the process of converting solid to gas called?",
+        "options": ["Sublimation", "Condensation", "Evaporation", "Melting"],
+        "correctAnswer": "Sublimation"
+      },
+      {
+        "id": "science_mid_2_q5",
+        "quizId": "science_mid_2",
+        "question": "What is the chemical symbol for iron?",
+        "options": ["Fe", "Ir", "In", "I"],
+        "correctAnswer": "Fe"
+      },
+  
+      {
+        "id": "science_hard_1_q1",
+        "quizId": "science_hard_1",
+        "question": "What is the chemical formula for glucose?",
+        "options": ["C6H12O6", "C12H22O11", "C2H5OH", "CH4"],
+        "correctAnswer": "C6H12O6"
+      },
+      {
+        "id": "science_hard_1_q2",
+        "quizId": "science_hard_1",
+        "question": "What is the speed of sound in air?",
+        "options": ["343 m/s", "300 m/s", "400 m/s", "500 m/s"],
+        "correctAnswer": "343 m/s"
+      },
+      {
+        "id": "science_hard_1_q3",
+        "quizId": "science_hard_1",
+        "question": "What is the chemical symbol for lead?",
+        "options": ["Pb", "Pd", "Pt", "Po"],
+        "correctAnswer": "Pb"
+      },
+      {
+        "id": "science_hard_1_q4",
+        "quizId": "science_hard_1",
+        "question": "What is the process of converting gas to liquid called?",
+        "options": ["Condensation", "Sublimation", "Evaporation", "Melting"],
+        "correctAnswer": "Condensation"
+      },
+      {
+        "id": "science_hard_1_q5",
+        "quizId": "science_hard_1",
+        "question": "What is the chemical formula for ammonia?",
+        "options": ["NH3", "NO3", "N2O", "NO2"],
+        "correctAnswer": "NH3"
+      },
+  
+      {
+        "id": "history_basic_1_q1",
+        "quizId": "history_basic_1",
+        "question": "Who was the first President of the United States?",
+        "options": ["John Adams", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
+        "correctAnswer": "George Washington"
+      },
+      {
+        "id": "history_basic_1_q2",
+        "quizId": "history_basic_1",
+        "question": "In which year did World War II end?",
+        "options": ["1943", "1944", "1945", "1946"],
+        "correctAnswer": "1945"
+      },
+      {
+        "id": "history_basic_1_q3",
+        "quizId": "history_basic_1",
+        "question": "Who wrote the Declaration of Independence?",
+        "options": ["John Adams", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
+        "correctAnswer": "Thomas Jefferson"
+      },
+      {
+        "id": "history_basic_1_q4",
+        "quizId": "history_basic_1",
+        "question": "In which year did the American Civil War start?",
+        "options": ["1860", "1861", "1862", "1863"],
+        "correctAnswer": "1861"
+      },
+      {
+        "id": "history_basic_1_q5",
+        "quizId": "history_basic_1",
+        "question": "Who was the first man to step on the moon?",
+        "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "Michael Collins"],
+        "correctAnswer": "Neil Armstrong"
+      },
+  
+      {
+        "id": "history_mid_1_q1",
+        "quizId": "history_mid_1",
+        "question": "Which empire was ruled by Julius Caesar?",
+        "options": ["Greek", "Roman", "Persian", "Ottoman"],
+        "correctAnswer": "Roman"
+      },
+      {
+        "id": "history_mid_1_q2",
+        "quizId": "history_mid_1",
+        "question": "The Renaissance period began in which country?",
+        "options": ["France", "England", "Italy", "Spain"],
+        "correctAnswer": "Italy"
+      },
+      {
+        "id": "history_mid_1_q3",
+        "quizId": "history_mid_1",
+        "question": "Who was the first emperor of China?",
+        "options": ["Qin Shi Huang", "Liu Bang", "Kublai Khan", "Sun Yat-sen"],
+        "correctAnswer": "Qin Shi Huang"
+      },
+      {
+        "id": "history_mid_1_q4",
+        "quizId": "history_mid_1",
+        "question": "In which year did the Berlin Wall fall?",
+        "options": ["1987", "1988", "1989", "1990"],
+        "correctAnswer": "1989"
+      },
+      {
+        "id": "history_mid_1_q5",
+        "quizId": "history_mid_1",
+        "question": "Who was the first female Prime Minister of the United Kingdom?",
+        "options": ["Margaret Thatcher", "Theresa May", "Angela Merkel", "Indira Gandhi"],
+        "correctAnswer": "Margaret Thatcher"
+      },
+  
+      {
+        "id": "history_hard_1_q1",
+        "quizId": "history_hard_1",
+        "question": "Who was the first President of the United States?",
+        "options": ["John Adams", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
+        "correctAnswer": "George Washington"
+      },
+      {
+        "id": "history_hard_1_q2",
+        "quizId": "history_hard_1",
+        "question": "In which year did World War II end?",
+        "options": ["1943", "1944", "1945", "1946"],
+        "correctAnswer": "1945"
+      },
+      {
+        "id": "history_hard_1_q3",
+        "quizId": "history_hard_1",
+        "question": "Who wrote the Declaration of Independence?",
+        "options": ["John Adams", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
+        "correctAnswer": "Thomas Jefferson"
+      },
+      {
+        "id": "history_hard_1_q4",
+        "quizId": "history_hard_1",
+        "question": "In which year did the American Civil War start?",
+        "options": ["1860", "1861", "1862", "1863"],
+        "correctAnswer": "1861"
+      },
+      {
+        "id": "history_hard_1_q5",
+        "quizId": "history_hard_1",
+        "question": "Who was the first man to step on the moon?",
+        "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "Michael Collins"],
+        "correctAnswer": "Neil Armstrong"
+      }
+    ]
+  }

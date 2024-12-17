@@ -1,0 +1,16 @@
+{
+    "categories": [
+      {
+        "id": "math",
+        "title": "Maths"
+      },
+      {
+        "id": "science",
+        "title": "Science"
+      },
+      {
+        "id": "history",
+        "title": "History"
+      }
+    ]
+}

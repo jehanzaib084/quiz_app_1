@@ -14,7 +14,7 @@ class SignupScreen extends StatefulWidget {
 }
 
 class _SignupScreenState extends State<SignupScreen> {
-  final AuthService _authService = AuthService();
+  // final AuthService _authService = AuthService();
   bool _isLoading = false;
 
   final _formkey = GlobalKey<FormState>();
